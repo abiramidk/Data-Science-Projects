@@ -1,4 +1,3 @@
-# Databricks notebook source
 # MAGIC %md ##Data Preparation
 # MAGIC 
 # MAGIC For our forecasting exercise, we will make use of Citi Bike NYC trip history data aggregated to an hourly level and hourly weather data from Visual Crossing.  This notebook will prepare our data files for this work, but because of the terms of use associated with the datasets we will use, we will not provide instructions on how to access and download these.  If you wish to make use of these data, please visit the data providers' websites (linked to below), review their Terms of Use (also linked to below), and employ the data appropriately:</p>
